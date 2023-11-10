@@ -9,7 +9,7 @@
 
 <p>This project lets you save your tasks with date and time.There is an option to delete as you accomplish each task.<p>
   <table>
-    <tr><img src="op1.png">  <img src="op2.png"></tr>
+    <td><img src="op1.png">  <img src="op2.png"></td>
     
   </table>
 
